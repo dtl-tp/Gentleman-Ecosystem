@@ -1,0 +1,18 @@
+[submodule "gentle-ai"]
+	path = gentle-ai
+	url = https://github.com/Gentleman-Programming/gentle-ai
+[submodule "engram"]
+	path = engram
+	url = https://github.com/Gentleman-Programming/engram
+[submodule "agent-teams-lite"]
+	path = agent-teams-lite
+	url = https://github.com/Gentleman-Programming/agent-teams-lite
+[submodule "Gentleman-Skills"]
+	path = Gentleman-Skills
+	url = https://github.com/Gentleman-Programming/Gentleman-Skills
+[submodule "gentleman-guardian-angel"]
+	path = gentleman-guardian-angel
+	url = https://github.com/Gentleman-Programming/gentleman-guardian-angel
+[submodule "Gentleman.Dots"]
+	path = Gentleman.Dots
+	url = https://github.com/Gentleman-Programming/Gentleman.Dots
