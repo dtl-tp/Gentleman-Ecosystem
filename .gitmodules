@@ -16,3 +16,9 @@
 [submodule "Gentleman.Dots"]
 	path = Gentleman.Dots
 	url = https://github.com/Gentleman-Programming/Gentleman.Dots
+[submodule "Gentleman-MCP"]
+	path = Gentleman-MCP
+	url = https://github.com/Gentleman-Programming/Gentleman-MCP
+[submodule "gentle-agent-state"]
+	path = gentle-agent-state
+	url = https://github.com/Gentleman-Programming/gentle-agent-state
