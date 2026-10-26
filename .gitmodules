@@ -22,3 +22,12 @@
 [submodule "gentle-agent-state"]
 	path = gentle-agent-state
 	url = https://github.com/Gentleman-Programming/gentle-agent-state
+[submodule "Gentleman-Terminal"]
+	path = Gentleman-Terminal
+	url = https://github.com/Gentleman-Programming/Gentleman-Terminal
+[submodule "gentle-shell"]
+	path = gentle-shell
+	url = https://github.com/Gentleman-Programming/gentle-shell
+[submodule "gentle-shell-desktop"]
+	path = gentle-shell-desktop
+	url = https://github.com/Gentleman-Programming/gentle-shell-desktop

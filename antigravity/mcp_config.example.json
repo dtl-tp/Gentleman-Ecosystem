@@ -1,0 +1,72 @@
+{
+  "mcpServers": {
+    "context7": {
+      "args": [
+        "-y",
+        "@upstash/context7-mcp@latest"
+      ],
+      "command": "npx"
+    },
+    "desktop-commander": {
+      "args": [
+        "-y",
+        "@wonderwhy-er/desktop-commander"
+      ],
+      "command": "npx"
+    },
+    "engram": {
+      "args": [
+        "mcp",
+        "--tools=agent"
+      ],
+      "command": "C:\\Users\\danif\\AppData\Local\\engram\\bin\\engram.exe"
+    },
+    "github": {
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-github"
+      ],
+      "command": "npx",
+      "env": {
+        "GITHUB_PERSONAL_ACCESS_TOKEN": "YOUR_GITHUB_PAT_HERE"
+      }
+    },
+    "markitdown": {
+      "args": [
+        "c:\\Users\\danif\\.gemini\\antigravity\\markitdown_server.py"
+      ],
+      "command": "python"
+    },
+    "next-devtools": {
+      "args": [
+        "-y",
+        "next-devtools-mcp@latest"
+      ],
+      "command": "npx"
+    },
+    "notebooklm": {
+      "args": [
+        "-m",
+        "notebooklm_mcp.server",
+        "--stateless"
+      ],
+      "command": "python"
+    },
+    "supabase-mcp-server": {
+      "args": [
+        "-y",
+        "@supabase/mcp-server-supabase@latest"
+      ],
+      "command": "npx",
+      "env": {
+        "SUPABASE_ACCESS_TOKEN": "YOUR_SUPABASE_PAT_HERE"
+      }
+    },
+    "stitch": {
+      "url": "https://stitch.googleapis.com/mcp",
+      "headers": {
+        "X-Goog-Api-Key": "YOUR_GOOGLE_API_KEY_HERE"
+      }
+    }
+  }
+}
